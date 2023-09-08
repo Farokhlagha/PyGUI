@@ -5,31 +5,31 @@ In this repasitory, there are a few GUI projects. Apps are coded with Python ver
 ### Calculator
 First project is calculator.
 
-![calc]()
+![calc](https://raw.githubusercontent.com/Farokhlagha/PyGUI/main/PyGUI17_Calculator/calc.png)
 
 ## PyGUI18
 ### TicTacToe
 Noughts and Crosses; Xs and Os are the other name of this game.
 
-![tictac]()
+![tictac](https://raw.githubusercontent.com/Farokhlagha/PyGUI/main/PyGUI18_TicTacToe/tictac.png)
 
 ## PyGUI19
 ### DownLoader
 Downloader software design.
 
-![downl]()
+![downl](https://raw.githubusercontent.com/Farokhlagha/PyGUI/main/PyGUI19_Puzzle15%2CDownLoader%2CGuessNumber%2CPasswordGenerator/DownLoader/downl.png)
 
 ### GuessNumber
 Number guessing game design with Qt.
 
-![guessnum]()
+![guessnum](https://raw.githubusercontent.com/Farokhlagha/PyGUI/main/PyGUI19_Puzzle15%2CDownLoader%2CGuessNumber%2CPasswordGenerator/GuessNumber/guessnum.png)
 
 ### PasswordGenerator
 Password generator software design (with radio button).
 
-![passgen]()
+![passgen](https://raw.githubusercontent.com/Farokhlagha/PyGUI/main/PyGUI19_Puzzle15%2CDownLoader%2CGuessNumber%2CPasswordGenerator/PasswordGenerator/passgen.png)
 
 ### Puzzle15
 Puzzle 15 game design.
 
-![paz15]()
+![paz15](https://raw.githubusercontent.com/Farokhlagha/PyGUI/main/PyGUI19_Puzzle15%2CDownLoader%2CGuessNumber%2CPasswordGenerator/Puzzle15/puz15.png)
