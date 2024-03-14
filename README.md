@@ -33,3 +33,11 @@ Password generator software design (with radio button).
 Puzzle 15 game design.
 
 ![paz15](https://raw.githubusercontent.com/Farokhlagha/PyGUI/main/PyGUI19_Puzzle15%2CDownLoader%2CGuessNumber%2CPasswordGenerator/Puzzle15/puz15.png)
+
+
+## PyGUI23
+### Sudoku 
+Sudoku, popular form of number game. A 9 × 9 grid with numbers appearing in some of the squares.
+
+Solved Sudoko game
+![Example of my Solved Sudoko game](SolvedSudoku.png)
