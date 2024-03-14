@@ -40,4 +40,4 @@ Puzzle 15 game design.
 Sudoku, popular form of number game. A 9 × 9 grid with numbers appearing in some of the squares.
 
 Solved Sudoko game
-![Example of my Solved Sudoko game](SolvedSudoku.png)
+![Example of my Solved Sudoko game](https://raw.githubusercontent.com/Farokhlagha/PyGUI/main/PyGUI23_Sudoku/SolvedSudoku.png)
