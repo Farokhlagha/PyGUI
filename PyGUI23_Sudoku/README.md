@@ -6,7 +6,7 @@ I used [jeffsieu/py-sudoku](https://github.com/jeffsieu/py-sudoku) library to ma
 
 ##
 
-![Example of my Solved Sudoko game](SolvedSudoku.png)
+![Example of my Solved Sudoko game](https://raw.githubusercontent.com/Farokhlagha/PyGUI/main/PyGUI23_Sudoku/SolvedSudoku.png)
 
 
 ## To Do
