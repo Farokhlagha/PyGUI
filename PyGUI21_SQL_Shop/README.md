@@ -1,5 +1,5 @@
 # SQL shop
-Create:
+Use Data Base and Create:
  - 1-Show list 
  - 2- Add new - 
  - 3- Edit 
