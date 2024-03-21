@@ -34,4 +34,5 @@ Show notification at the end
 
 🔵 Generate EXE File
 
-[clock](worldclock.png)
+[clock](https://raw.githubusercontent.com/Farokhlagha/PyGUI/main/PyThreating25_clock/worldclock.png)
+

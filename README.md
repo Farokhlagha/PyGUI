@@ -68,3 +68,13 @@ Use multi-threading to create new enemies in Space-Ship game.
 Use multi-threading to create new enemies in Space-Ship game. 
 
 ## PyGUI25_Threating
+# Clock App 
+In this app use thread and database to run parallel each app and save alarms, respectively.
+
+Clock App contains 4 main sections:
+
+1. 🌏 World Clock
+2. ⏰ Alarm
+3. ⏱️ StopWatch
+4. ⏲️ Timer
+[clock](https://raw.githubusercontent.com/Farokhlagha/PyGUI/main/PyThreating25_clock/worldclock.png)
