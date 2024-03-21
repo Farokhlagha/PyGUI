@@ -77,4 +77,7 @@ Clock App contains 4 main sections:
 2. ⏰ Alarm
 3. ⏱️ StopWatch
 4. ⏲️ Timer
-[clock](https://raw.githubusercontent.com/Farokhlagha/PyGUI/main/PyThreating25_clock/worldclock.png)
+
+Clock App
+
+![clock](https://raw.githubusercontent.com/Farokhlagha/PyGUI/main/PyGUI25_Threating_clock/worldclock.png)

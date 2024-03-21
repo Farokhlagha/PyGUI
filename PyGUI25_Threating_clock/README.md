@@ -34,5 +34,6 @@ Show notification at the end
 
 🔵 Generate EXE File
 
-[clock](https://raw.githubusercontent.com/Farokhlagha/PyGUI/main/PyThreating25_clock/worldclock.png)
+Clock app
+![clock](https://raw.githubusercontent.com/Farokhlagha/PyGUI/main/PyGUI25_Threating_clock/worldclock.png)
 
